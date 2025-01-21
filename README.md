@@ -1,6 +1,3 @@
-Here's the explanation in Markdown format:
-
-```markdown
 # Canvas Fingerprinting Principles
 
 **Canvas Fingerprinting** is a technique that uses the HTML5 `<canvas>` element to generate a unique identifier (fingerprint) for a device or browser. It is a tracking method that does not rely on traditional cookies and is often used to identify users without leaving traces. Below is a detailed explanation of its principles:
@@ -81,4 +78,3 @@ Due to privacy concerns, users can protect themselves in the following ways:
 ---
 
 Canvas Fingerprinting is a powerful tracking technique, but it raises significant privacy concerns. It should be used responsibly and in compliance with data protection laws like GDPR.
-```
